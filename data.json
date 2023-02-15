@@ -1,3 +1,16 @@
 {
-    "_database": []
+    "_database": [
+        {
+            "type": "apple",
+            "count": 12
+        },
+        {
+            "type": "peach",
+            "count": 12
+        },
+        {
+            "type": "apple",
+            "count": 12
+        }
+    ]
 }
