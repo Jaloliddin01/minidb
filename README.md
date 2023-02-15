@@ -8,7 +8,7 @@ This is a simple database that stores data in a file. It is not intended to be u
 ## modules
 
 - `__init__.py`
-- `db.py`
+- `minidb.py`
 
 ## methods
 
